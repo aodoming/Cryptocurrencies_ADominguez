@@ -1,13 +1,28 @@
-## Cryptocurrencies_ADominguez
+## DESCRIPTION
+* Unsupervised Machine Learning and Cryptocurrencies.
+The goal of this project is to analyze a dataset of cryptocurrencies in any way that would discover trends that could help
+convince stakeholders to invest in these new cryptocurrencies, at affordable prices. We dive deeper into machine learning using unsupervised algorithms, which help us explore data when we’re not sure what we’re looking for or without a clear output in mind,
+we only use input data. We work primarily with the K-means algorithm, the main unsupervised algorithm that groups similar data into clusters. We build on this by speeding up the process using principal component analysis (PCA), which employs many different features.
 
-Using unsupervised algorithms in Machine Learning to help us explore data when we’re not sure what we’re looking for.
+### SITUATION/TASK
+Use an algorithm that helps us discover patterns or groups. First, process the data for an unsupervised model, 
+then use the clustering and K-means algorithm, and finally make the model more efficient by using principle component analysis.
 
-#### Unsupervised Machine Learning and Cryptocurrencies
+### APPROACH
+Prepared data for dimensions reduction with PCA and clustering using K-means. Then, reduced data dimensions using PCA algorithms from sklearn. Next, used the K-means algorithm form sklearn to Predict clusters using cryptocurrencies data. Finally, created some plots
+and data tables to present results.
 
-The goal is of this project is to analyze a dataset of cryptocurrencies in any way that would discover trends that could help
-convince stakeholders to invest in these new cryptocurrencies, at affordable prices.
+### RESULTS
+Created a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
+Also created a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies having x="TotalCoinsMined"
+and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. 
 
-Utilizing the unsupervised algorithm allows us to explore data without any known output, we only use input data.
-The algorithm helps us discover patterns or groups. First, we process the data for an unsupervised model, 
-then we use the clustering and K-means algorithm, and finally we make our model more efficient by using principle component analysis.
+Use hvplot.table to create a data table with all the current tradable cryptocurrencies.
+### THINGS LEARNED
+* Preprocess data for unsupervised learning.
+* Cluster data using the K-means algorithm.
+* Determine the best amount of centroids for K-means using the elbow curve.
+* Use PCA to limit features and speed up the model.
 
+### SOFTWARE/TOOLS
+Jupyter Notebook, Python
