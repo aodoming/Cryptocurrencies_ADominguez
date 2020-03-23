@@ -29,3 +29,8 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 * Clusters with Two Features
 
 <img align="center" width="650" src="/pics/hvplot_Scatter_Clusters.png"><br/><br/><br/>
+
+
+* Table with All the Tradable Cryptocurrencies 
+
+<img align="center" width="650" src="/pics/Table_Tradeable_Cryptocurrencies.png"><br/><br/><br/>
