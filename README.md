@@ -37,4 +37,4 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 
 ### THINGS LEARNED
 * Preprocess data for unsupervised learning.
-
+* Cluster data using the K-means algorithm.
