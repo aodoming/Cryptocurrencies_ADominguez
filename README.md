@@ -11,38 +11,3 @@ then use the clustering and K-means algorithm, and finally make the model more e
 ### APPROACH
 Prepared data for dimensions reduction with PCA and clustering using K-means. Then, reduced data dimensions using PCA algorithms from sklearn. Next, used the K-means algorithm form sklearn to Predict clusters using cryptocurrencies data. Finally, created some plots
 and data tables to present results.
-
-### RESULTS
-Created a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
-Also created a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies having x="TotalCoinsMined"
-and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. 
-Used hvplot to create a data table with all the current tradable cryptocurrencies.
-
-
-* 3D Scatter Plot
-
-<img align=" center" width="650" src= "/pics/3D_Scatter_Plot.png"><br/><br/><br/>
-
-
-* Elbow Curve
-
-<img align="center" width="650" src="/pics/Elbow_Curve.png"><br/><br/><br/>
-
-
-* Clusters with Two Features
-
-<img align="center" width="650" src="/pics/hvplot_Scatter_Clusters.png"><br/><br/><br/>
-
-
-* Table with All the Tradable Cryptocurrencies 
-
-<img align="center" width="650" src="/pics/Table_Tradeable_Cryptocurrencies.png"><br/><br/><br/>
-
-### THINGS LEARNED
-* Preprocess data for unsupervised learning.
-* Cluster data using the K-means algorithm.
-* Determine the best amount of centroids for K-means using the elbow curve.
-* Use PCA to limit features and speed up the model.
-
-### SOFTWARE/TOOLS
-Jupyter Notebook, Python
