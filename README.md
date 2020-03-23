@@ -36,3 +36,5 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 <img align="center" width="650" src="/pics/Table_Tradeable_Cryptocurrencies.png"><br/><br/><br/>
 
 ### THINGS LEARNED
+* Preprocess data for unsupervised learning.
+
