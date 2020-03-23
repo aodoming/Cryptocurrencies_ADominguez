@@ -14,3 +14,4 @@ and data tables to present results.
 
 ### RESULTS
 Created a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
+Also created a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies having x="TotalCoinsMined"
