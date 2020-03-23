@@ -11,3 +11,5 @@ then use the clustering and K-means algorithm, and finally make the model more e
 ### APPROACH
 Prepared data for dimensions reduction with PCA and clustering using K-means. Then, reduced data dimensions using PCA algorithms from sklearn. Next, used the K-means algorithm form sklearn to Predict clusters using cryptocurrencies data. Finally, created some plots
 and data tables to present results.
+
+### RESULTS
