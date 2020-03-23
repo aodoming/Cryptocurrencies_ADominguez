@@ -25,3 +25,7 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 * Elbow Curve
 
 <img align="center" width="650" src="/pics/Elbow_Curve.png"><br/><br/><br/>
+
+* Clusters with Two Features
+
+<img align="center" width="650" src="/pics/hvplot_Scatter_Clusters.png"><br/><br/><br/>
