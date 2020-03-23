@@ -38,3 +38,4 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 ### THINGS LEARNED
 * Preprocess data for unsupervised learning.
 * Cluster data using the K-means algorithm.
+* Determine the best amount of centroids for K-means using the elbow curve.
