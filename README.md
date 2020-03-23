@@ -13,3 +13,4 @@ Prepared data for dimensions reduction with PCA and clustering using K-means. Th
 and data tables to present results.
 
 ### RESULTS
+Created a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
