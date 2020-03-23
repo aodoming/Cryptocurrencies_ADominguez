@@ -21,3 +21,7 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 * 3D Scatter Plot
 
 <img align=" center" width="650" src= "/pics/3D_Scatter_Plot.png"><br/><br/><br/>
+
+* Elbow Curve
+
+<img align="center" width="650" src="/pics/Elbow_Curve.png"><br/><br/><br/>
