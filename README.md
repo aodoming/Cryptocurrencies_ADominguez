@@ -16,3 +16,8 @@ and data tables to present results.
 Created a 3D scatter plot using Plotly Express to plot the clusters using the clustered_df DataFrame.
 Also created a scatter plot using hvplot.scatter to present the clustered data about cryptocurrencies having x="TotalCoinsMined"
 and y="TotalCoinSupply" to contrast the number of available coins versus the total number of mined coins. Used hvplot to create a data table with all the current tradable cryptocurrencies.
+
+
+* 3D Scatter Plot
+
+<img align=" center" width="650" src= "/pics/3D_Scatter_Plot.png"><br/><br/><br/>
