@@ -42,4 +42,4 @@ and y="TotalCoinSupply" to contrast the number of available coins versus the tot
 * Use PCA to limit features and speed up the model.
 
 ### SOFTWARE/TOOLS
-Jupyter Notebook, Python
+Python, Jupyter Notebook
